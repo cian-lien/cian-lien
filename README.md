@@ -2,11 +2,11 @@
 
 ### A Full-stack Developer
 
-- 🔭 I'm currently working on **DEX Website**
+- 🔭 I'm currently working on **Web3 Exchange**
 
 - 🌱 I'm currently learning **Rust, Web3, Product Design**
 
-- 💬 Ask me about **Nextjs, Flutter, Web Development, Web3**
+- 💬 Ask me about **Nextjs, App, Web3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
