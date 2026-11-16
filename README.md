@@ -9,12 +9,6 @@
 - ☁️ **云原生**：Docker · Kubernetes · Helm · Prometheus · Grafana
 - 🖥 **前端**：React · Next.js · TypeScript · Tailwind CSS · Flutter
 
-## 🚀 项目亮点
-
-- **AI 分析平台**：基于 Eino 实现 Agent 工具调用和 JSON Schema 结构化输出，月度模型费用降低 38%
-- **实时行情平台**：独立设计 4 个 Go 微服务，每分钟处理 6.6 万条行情；用 pprof 优化后总 CPU 下降 21.8%
-- **工程化**：接口 P99 从 680ms 降到 120ms，发版人工步骤从 12 步减到 3 步
-
 ## 📦 开源
 
 - [resume-ai-builder](https://github.com/cian-lien/resume-ai-builder)：AI 辅助的简历编辑器（Vue）
