@@ -60,8 +60,8 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/cian-lien/candlex"><strong>candlex</strong></a><br>
-  <sub>专业级 K 线图组件，用 Flutter / Dart 实现。</sub><br><br>
+  <a href="https://github.com/cian-lien/CandleAxis"><strong>CandleAxis</strong></a><br>
+  <sub>交互式 Flutter K 线图表库，支持技术指标、买卖点标记和绘图，附 iOS 与 Android 演示。</sub><br><br>
   <sub>Language: <strong>Dart</strong> · Stars: <strong>3</strong></sub>
 </td>
 <td width="50%" valign="top">
