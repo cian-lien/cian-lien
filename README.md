@@ -2,13 +2,11 @@
 
 🤖 AI 全栈工程师 | ⚙️ Go 后端 | 🖥️ 前端出身
 
-前端出身，2026 年起独立负责 Go 后端与 AI Agent 链路。做过多源行情数据平台（4 个 Go 微服务跑在阿里云 ACK）和 AI 热点分析平台（Eino Agent + 结构化输出 + 成本治理），能把一个 AI 功能从后端、消息链路一路交付到 React 运营后台。
+具备前端、Go 后端与 AI Agent 应用开发经验的全栈工程师。以 Python 与 Linux 入门编程，2021 年转向前端（Vue / React / Next.js / UniApp），2024 年学习 Java 与微服务，2025 年开始做 AI Agent 应用，2026 年独立负责 Go 后端项目，能把一个 AI 功能从后端一路交付到前端。
 
 [![GitHub](https://img.shields.io/badge/GitHub-cian--lien-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cian-lien)
 [![Email](https://img.shields.io/badge/Email-cianlien06%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cianlien06@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-广州%20%2F%20深圳-16a34a?style=flat-square)](mailto:cianlien06@gmail.com)
-
-> ⚡ 我关心的是 AI 功能怎么在生产环境里"稳"下来：输出可校验、任务可重跑、成本可追踪、故障分钟级可见。
 
 ## 🧰 Skills
 
