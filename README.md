@@ -85,7 +85,7 @@
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/joeseesun/subcast/pull/10"><strong>subcast PR #10</strong></a><br>
-  <sub>为 subcast（海外播客 / YouTube 双语字幕与 AI 问答工具）重做 macOS 安装包：用 create-dmg 调整为 App 在左、Applications 在右，并加入背景与拖拽提示，已合入主干。</sub><br><br>
+  <sub>为 subcast（海外播客 / YouTube 双语字幕与 AI 问答工具）重做 macOS 安装包，已合入主干。</sub><br><br>
   <sub>Type: <strong>Contribution</strong> · Status: <strong>Merged</strong></sub>
 </td>
 <td width="50%" valign="top">
