@@ -78,15 +78,15 @@
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/codewhale-hq/Codewhale/pull/1992"><strong>Codewhale PR #1992</strong></a><br>
-  <sub>为 Codewhale（GitHub 26k+ ⭐）提交 Bug 修复，已合入主干。</sub><br><br>
-  <sub>Type: <strong>Contribution</strong> · Stars: <img src="https://img.shields.io/github/stars/codewhale-hq/Codewhale?style=flat-square&label=&color=f5c518&logo=github" alt="stars" align="center"> · Status: <strong>Merged</strong></sub>
+  <sub>为 Codewhale 提交 Bug 修复，已合入主干。</sub><br><br>
+  <sub>Type: <strong>Contribution</strong> · Stars: <strong>41.2k</strong> · Status: <strong>Merged</strong></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/joeseesun/subcast/pull/10"><strong>subcast PR #10</strong></a><br>
   <sub>为 subcast（海外播客 / YouTube 双语字幕与 AI 问答工具）重做 macOS 安装包，已合入主干。</sub><br><br>
-  <sub>Type: <strong>Contribution</strong> · Stars: <img src="https://img.shields.io/github/stars/joeseesun/subcast?style=flat-square&label=&color=f5c518&logo=github" alt="stars" align="center"> · Status: <strong>Merged</strong></sub>
+  <sub>Type: <strong>Contribution</strong> · Stars: <strong>67</strong> · Status: <strong>Merged</strong></sub>
 </td>
 <td width="50%" valign="top">
 </td>
